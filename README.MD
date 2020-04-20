@@ -41,7 +41,7 @@
 }
 ```
 
-> It is 2020 and you should be targeting ES2015. [Internet Explorer 11 and Windows 7 are no longer supported by Microsoft and no longer receive security patches](https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads).
+> It is 2020 and you should be targeting ES2015. [Internet Explorer 11 on Windows 7 is no longer supported by Microsoft and no longer receive security patches](https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads).
 
 - Then, in the entry point of your application, import the polyfills.
 
